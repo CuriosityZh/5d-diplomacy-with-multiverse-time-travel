@@ -42,6 +42,12 @@ If you have design questions or suggestions, please don't use the issue board an
 
 Code contributions from others are welcome, although the creators retain the right to refuse feature changes. Feel free to fork this repo and modify the code there if you wish to experiment with more radical changes to the rules or UI.
 
+### 🧭 Multiverse Architecture Overview
+The system models timelines as distributed states, connected through a paradox-resolving consensus layer.
+
+![Multiverse Architecture Diagram](docs/multiverse-diagram.png)
+
+
 ## Installation
 
 There are currently two options for installing 5D Diplomacy. If you wish to make code changes as part of your installation, you should use the manual installation option. Otherwise, installation via Docker may be more suitable.
@@ -202,3 +208,5 @@ Modifying the server to adjudicate custom variants in 5D is simple. First, edit 
 - Modify `units.json` to change starting units.
 
 Modifying the client is tricker as it is much more tied to this particular Diplomacy board. While `client/src/data/regions.ts` contains the list of regions and associated data, you will also need to replace the SVG files in `client/src/assets/map` and then reference them in `client/src/hooks/useRegionSvg.tsx`.
+
+
