@@ -1,3 +1,29 @@
+# 🎮 5D Diplomacy: Multiverse Time Travel — *Curiosity Edition*
+
+> *Every move echoes through the multiverse.*
+
+---
+
+## 🌌 About This Fork
+
+This edition reimagines **5D Diplomacy** as an experimental simulation of causality, negotiation, and distributed systems.  
+It focuses on **architecture, logic, and paradox resolution** — viewing the game not only as entertainment but as a *philosophical system of information flow across timelines.*
+
+If you're looking for the **original gameplay version**, visit the main project:  
+👉 [Oliveriver/5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel)
+
+---
+
+## 🧠 Concept Overview
+
+**5D Diplomacy** is a strategy game played across timelines and universes.  
+Each player's move can alter past, present, or future — creating paradoxes and branching timelines.
+
+*(Conceptual diagram and philosophy from CuriosityZh’s edition)*
+
+![Architecture](docs/multiverse-diagram.png)
+
+
 # 5D Diplomacy With Multiverse Time Travel
 
 A new standard in measuring how galaxy-brained you are, 5D Diplomacy With Multiverse Time Travel combines the classic game of pure negotiation with the modern classic game of pure disorientation. Can you convince your opponent to support an attack in the present while simultaneously backstabbing them five years ago and seven timelines over?
