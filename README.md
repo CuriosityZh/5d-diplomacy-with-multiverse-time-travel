@@ -1,3 +1,4 @@
+
 # 🎮 5D Diplomacy: Multiverse Time Travel — *Curiosity Edition*
 
 > *Every move echoes through the multiverse.*
